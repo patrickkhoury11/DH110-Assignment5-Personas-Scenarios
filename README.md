@@ -5,7 +5,7 @@
 
 I have previously used methods of evaluation through heuristic analysis and usability testing, and conducted user-research through a relevant interview with a target user. Through the information gathered in these sectors, I will clearly communicate my users' concerns and desires from their perspective using UX storytelling methods. 
 
-UX storytelling is a vital process into an iterative and holistic approach towards human centered design. Through patterns I have discovered in the aforementioned sections of analysis, I have gained compelling insight which will aid me generate ideas and build prototypes to improve the design and functionality of my product. It will allow me to shift my perspective into that of the user and clearly communicate their critiques and desires. Furthermore, it will allow me to filter any biases I may carry subconsciously, as instead of basing these functions on my own ideas, I am basing them off the suggestions from my targeted users. 
+UX storytelling is a vital process within an iterative and holistic approach towards human centered design. Through patterns that I have discovered in the aforementioned sections of analysis, I have gained compelling insights that will aid me generate ideas and build prototypes to improve the design and functionality of my product. It will allow me to shift my perspective into that of the user and clearly communicate their critiques and desires. Furthermore, it will allow me to filter any biases I may carry subconsciously, as instead of basing these functions on my own ideas, I am basing them off the suggestions from my targeted users. 
 
 In the following analysis, I will create personas based on my findings from my interviews and analysis. This will allow me to share the same image of the users. I will then create empathy maps based on those personas to express what the individuals would typically say, do, think, and feel in the contexts of them as an individual and as a consumer to my product. Finally, I will create key scenarios which illustrate a different activity/task to accomplish a feature inspired by the users’ suggestion. The features will act as a design solution and improve the functionality of the service directly according to the expressed critiques of the user.
 
@@ -19,7 +19,7 @@ Based on the research I have conducted up until this point, I believe that incor
 
 The two following features bring potential solutions to these barriers
 
-* **Consolidation:** Consolidating a variety of environmentally-conscious activities and services into one mobile application is far more convenient and time efficient for the users. This feature also mitigates the issue I identified in my previous evaluations stating the privacy concerns of the user. Users often don’t want to sign up their private information to multiple different service providers, as it makes them more susceptible to information breaches. This rids the user of the aforementioned concerns, while also creating a more time-efficient and environmentally oriented product. Consolidating several environmentally-conscious activities into one platform allows for the opportunity to educate the consumer about sustainable practices and events, as the platform dedicates itself to the notion of sustainability and sustainable living in cities and communities.
+* **Consolidation:** Consolidating a variety of environmentally-conscious activities and services into one mobile application is far more convenient and time efficient for the users. This feature also mitigates the issue I identified in my previous evaluations stating the privacy concerns of the user. Users often don’t want to sign up their private information to multiple different service providers, as it makes them more likely to be susceptible to information breaches. This rids the user of the aforementioned concerns, while also creating a more time-efficient and environmentally-oriented product. Consolidating several environmentally-conscious activities into one platform allows for the opportunity to educate the consumer about sustainable practices and events, as the platform dedicates itself to the notion of sustainability and sustainable living in cities and communities.
 > *Target user input on consolidation: “I would definitely prefer having one platform with multiple aspects and resources because it’s more convenient and time efficient to have everything in one place. I think with having one platform dedicated to sustainability also, I would be more inclined to remember to incorporate sustainability practices into my life because there’s now a platform where that’s the main focus.”*
 
 
@@ -32,67 +32,50 @@ The two following features bring potential solutions to these barriers
 ### Persona & Empathy Map
 
 #### Alex - The New Kid  
-(![alexpersona](https://user-images.githubusercontent.com/114698093/197982602-b43dcd2a-5a98-4c20-b853-b0cf589c0027.png)
+![wilsonpersona](https://user-images.githubusercontent.com/114698093/197986473-5b0b3b6f-fa09-4eeb-ab9c-cac8788f8d04.png)
 
-![June's empathy map](./june_em.png)
+![alexempathy](https://user-images.githubusercontent.com/114698093/197983883-4ccdb8a7-7e4d-4398-94ad-cfa3608e4bd7.png)
 
-#### Mary - the social butterfly  :butterfly: 
-![Mary's persona profile](./mary_p.png)
+#### Chloe - The Work-a-holic
+![chloedpersona](https://user-images.githubusercontent.com/114698093/197984226-7691100d-3a6a-4c51-bbf2-739be471b5d9.png)
+
+![chloeempathy](https://user-images.githubusercontent.com/114698093/197984278-7a1afff5-ae21-46d2-9f05-5c1e2973ee0c.png)
 
 
 ### Scenarios & Journey Map
 
-While all functions I plan to improve in my project can be used by each personal to reach their goals, I have prefered to create a scenario for each function that highighted how it could help one of the persona at least achieve her goals and meet her needs. 
+Although the app is intended to be used by a large number of people, each with different problems and goals, the following scenarios highlight how the two key features discussed previously may help Alex and Chloe solve their issues and achieve their goals demonstrated in their respective personas.
 
-#### 1. June's Scenario - the quiz function
+#### 1. Alex's Scenario - Consolidation
 
-> *This detail quiz feature will help beginners or people with recent changes in their capabilities (injuries, pregnancies etc.) understand what are their needs and offer them initial options to see which they like and dislike based on workouts that are perfect for them.*
+> *This feature consolidates a variety of environmentally-conscious activities and services into one mobile application.*
 
-June is now actively looking to start working out. She has asked some friends about what they like to do and they have all told her different answers ranging from yoga to running to Zumba. While June has heard of these different types of workout before, she has no clue which one she would like and what benefits each have for her body.
+Alex has had a hard time fitting into life at UCSD after moving from Baton Rouge. He loves surfing, but never has enough money for an Uber to the beach. Alex is in a real money crunch, as he also needs furniture for his new apartment and wants new clothes to help him fit it. Despite not being close with his old roommate, Alex looks up to his new one, Noah, who is from Carlsbad, California and seems to fit right into life in San Diego. Desperately wanting to fit in, Alex buys cheap clothing and accessories from Shien in an attempt to dress more like Noah.
 
- Because of COVID-19, going to her local gyms and seeing what they offered was not a possibility so she turned to the internet and planned to workout from the comfort of her own home. However, she had no clue what to research and didn’t know what equipment she needed or how long she should clearly workout for. She was completely lost and felt like she didn’t know how to start. 
+When the package from Shein arrives, Alex shows Noah his new clothes wanting his opinion, however he does not get the reaction he was anticipating. Noah berrates Alex for buying from Shein, as they have a history of awful working conditions and participates in fast fashion, contributing waste to landfills and harming the environment. Coming from a place where sustainability was never talked about, this left Alex extremely frustrated and confused. Alex realizes it's difficult to build a habit at 19-years-old without access to proper information
 
-She then found Fitness for All and clicked on their quiz. Within the next 10 minutes, she was able to understand and put into words what she wanted, what she thinks she likes and dislikes as well as how equipped she is. She then created a profile that offered her various types of workouts that matched her criteria and allowed her to try it workout and create a feedback loop once complete. The more she tried out workouts given to her by the quiz, the more she knew what was working for her, and the more the website would give her accurate results for her. 
+A day passes, and Alex is determined to fit into his desired lifestyle at UCSD, so he finally musters up the courage to ask Noah where he gets his clothes. Noah tells Alex he gets most of his clothes from clothing swaps through this application on his phone. Alex, relieved that clothing swaps doesn’t require any money, asks Noah more questions about the app. Noah sends Alex the name of the application and tells Alex to follow his profile. Alex reads through the description of the application on the app store, and immediately notices the consolidation aspect of the application. He becomes ecstatic, as many of the services provided benefits him directly. Alex sets up his profile, optimistic that he will be able to find solutions to his issues. 
 
-This was a blessing as June had no idea that pilates was what she liked the most and was able to develop a really joy in doing it daily and staying in shape. Feeling satisfied of working out and how easy if finally became, she was able to stay in shape and go enjoy quality time with her grand children. 
+Alex follows his roommate Noah and begins to navigate through the different tabs on the application. The home tab is filled with information on sustainable living and Noah’s posts from different sustainability events on campus. After liking one of his photos, Noah shares the details of the next one he is going to with Alex on the app. This leaves Alex feeling elated as he gets to hang out with Noah, while meeting others and doing good for the local community. Alex contacts a man through the clothing swap tab, and they agree to trade some of Alex’s old clothes and the new ones he got from Shein for some graphic tees and swim shorts. In the refurbished furniture section, Alex contacts a graduate student that wants to unload a couch in good condition. They arrange a meet-up time and Alex happily takes it off the grad student’s hands. Through the rideshare section, Alex meets a junior at UCSD who goes to the beach every morning. The student agrees to take Alex to the beach whenever he goes in exchange for gas money and good company. The two become friends and Alex is able to surf whenever he wants. While scrolling through the app, Alex learns about more sustainable practices and incorporates the easy ones in his daily life. Alex dives deeper into the app, utilizing it more often, saving time and money through the services being all in the same place. He continues to wake up every morning with a new sense of belonging and fulfillment.   
 
-![June's journey map](./june_j.png)
+Alex enjoys the consolidation aspect of the application as it saves him time and money, while offering a variety of helpful services.
 
-#### 2. Mary's Scenario - the social aspect
+![Alexmap](https://user-images.githubusercontent.com/114698093/197985461-245ae680-19c2-4c4a-bec4-9c27c47dd0bd.png)
+
+#### 2. Chloe's Scenario - The Social Media/Community Aspect
 
 > *The filters and categorization features create an extensive possibility of ways to filter through all the  options available on the internet easily based on needs that users may have when working out. This will allow them to easily narrow down their choices from the thousands of options available to them on the internet. Some examples of those filters are: type of workout, level of intensity, lengths, equipment needed, etc.* 
 
-Mary use to love going early in the morning to group fitness classes at her local gym. She had friends there and a sharp schedule that kept her motivated to workout. However with the stay at home order, her gym shut-down and she was unable to participate in those anymore. Alone at-home, she lack the motivation to workout every other day. Additionally, she didn’t know what type of exercises she like. She usually picked workout based on what her friends at the gym recommended as she loved the ambiance of working out with them and motivating one and other. 
+Chloe, being from a beach town in California, loves nature and is extremely passionate about the environment and its well-being. Shortly after moving to New Jersey for work, she realizes her typically sustainable living style has shifted due to her demanding work schedule and new environment. Furthermore, Chloe misses her friends from home and spends whatever free time she has scrolling on social media, reminiscing about her old life in Laguna Beach. After her fourth consecutive week of the same routine which leaves Chloe feeling depressed and unfulfilled, she decides to talk to a coworker next in-person work day in hopes of making a change. 
 
-She recently decided she wanted to be her own motivator and workout again with online classes but failed without the support of others. She then realized she needed to find live virtual classes where there was other attendees that way she could feel more incline to join and feel like she is a part of the class. However, after going online and searching for those classes, she didn’t find anything that looked like what was at the gym. Most live classes were bootcamps made for young and very athletic people she thought and became discourage once again. 
+Chloe talks to a couple of her coworkers that work in the cubicles surrounding hers about her newfound challenges. They both dismiss her quickly. Chloe’s coworkers don’t share the same interests as her or know her well since she only comes into the office once every week. They rudely suggest she should just look it up online rather than bothering them. Neither coworker does anything to help her. This interaction leaves Chloe feeling defeated. It’s hard for her to remain outgoing and optimistic when she doesn’t receive the same energy back in her limited in-person interactions. In spite of the conversation, Chloe goes home determined to make changes for the better, and begins scouring the web for solutions to her problems.  
 
-She then found Fitness for All and saw that they had live classes. Additionally all classes had reviews on them with information about the people behind the review (age, gender, level of intensity, preferred workouts, etc.) Through that she was able to find people that were similar than her and what classes they were taking. She joined a live class or two and was pleased to see that for those live classes there was a group chat features where participants can chat during the week and motivate one and other. 
+After searching for about an hour, Chloe comes across this application that intrigues her. She notices that it is a social-media platform that doubles as a consolidator of environmentally-conscious activities. She dives deeper into the descriptions of the logistics of the app and notices that all users have a profile page and the option to follow their friends and others. She reads the section stating that allowing location while the app is in use may allow for the details of relevant environmental activities in the user's area to be shown, encouraging the target users to go out and participate with their friends. In hopes that this application would allow her to make new friends in the area and incentivize her to participate in sustainability events, Chloe downloads the app and starts making her profile.
 
-Mary felt happy to finally feel motivated to workout again through a social workout experience online. She felt amaze to workout with people around the country and to finally have a clear workout schedule. The social component of Fitness for All really helped her figure out what classes she may enjoy and find an online community to encourage her to workout again. 
+Chloe immediately follows her friends back home through the sync your contacts feature. She loves the social-media aspect of the design, as it allows her to keep up with her friends from Laguna Beach. Through the group search feature in the app, Chloe discovers people from her workplace that use the app. She quickly follows and messages them and they arrange a time and location to meet. Having similar interests with these people, Chloe finally makes significant friends and signs up to participate in an environmental event with them. She loves the convenience of the app, as it doesn’t take up much time to sign up for events. Furthermore, she doesn’t ever feel unproductive while on the app, as spending time on a platform with such a good cause is fulfilling to her. After the event, Chloe feels whole again, knowing that she participated in an event for a cause she feels passionate about with like-minded individuals and her newfound friends. The information regarding sustainable practices on the home page of the app acts as a constant reminder to her to live an intentionally sustainable life as she once did, and Chloe is confident that she will never go back to how she felt when she first moved to New Jersey. Chloe develops a sense of belonging and continues to make friends through events and the app itself. 
 
-![Mary's journey map](./mary_j.png)
+Chloe enjoys the social media/community aspect of the application as it allows her to stay connected with her friends back home and make new ones in her new town.
 
-#### 3. Evalyn's Scenario - the filter function
- 
- > *The social feature of Fitness for All enable users to have an account on the site and interact with other  site members through chats and trusted reviews. The reviews will give some description of who the reviewer is in order to see what people with similar goals think about the particular workout. It creates a more social component that currently does not exist in fitness due to the social distancing.*
+![chloemap](https://user-images.githubusercontent.com/114698093/197985905-5c3d748f-79a7-4723-9fe0-546e2e0c4341.png)
 
- Evalyn is currently balancing her new at-home work schedule and having two teenagers at-home taking classes online. After sitting all day long, she wants to workout but feels like she never has the time. On top of that she injured her knee recently and cannot do her typical workouts. Even before covid, she use to workout at home cuz she did not like her local gym and didn’t want to waste time commuting to another gym. She likes switching up her at home routines and need various lengths of workout to squeeze into her face-pace life. 
-
-Because of her always busy home and her knee injury, she has been less able to workout but is now looking to take more time for herself. However, she is faced with so many options on the internet and is still unsure about what she can and cannot do with her knee. Her doctor told her that she could workout again but take things easy. So she goes on Google and tries to find the perfect workouts to match all her criteria. She gets overwhelmed by the amount of search results and now how to slowly go through all of them which she does not have time to do. Hence, she feels stuck and unable to workout as she lacks the time do research. 
-
-One day, her friends mention to her Fit for All and its extensive list of classes that are categorize methodically to make it easy for her to understand everything she needs to know about a workout within seconds. She heads to the website and filters out exactly based on her specific needs (at-home, prerecorded, with equipment, short length, advance level, with a knee injury). She then only gets the relevant workouts and within minutes she is able to understand what each of these results involve and can save them for future workouts. 
-
-Evalyn feels relieved and excited to be able to workout again as it was something that she cherished in the past. She can now take the little amount of free time she has in her day to workout. By working out and having an easy way to find new fitness programs, she is able to destress and feel happier. 
-
-![Evalyn's journey map](./evalyn_j.png)
-
-### Reflection
-
-* I truly enjoyed creating personas, especially the empathy maps as it helped me better understand why the users would use the features I am planning to create and the positive impact it will have on their fitness journey.
-
-* My only limitation was that I felt I did not have enough demographic information about each as well as their abilities to truly research online. Next time, I would like to go more in-depth about that. 
-
-* From this research, I was able to understand how my product should focus on resolving any frustration in the fitness process my user had (user-centric approach).
-
-* Additionally, it reaffirms the validity of the needs for more filters, a quiz and a social component to fitness apps which is the key features of my project. 
 
