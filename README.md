@@ -64,7 +64,7 @@ Alex enjoys the consolidation aspect of the application as it saves him time and
 
 #### 2. Chloe's Scenario - The Social Media/Community Aspect
 
-> *The filters and categorization features create an extensive possibility of ways to filter through all the  options available on the internet easily based on needs that users may have when working out. This will allow them to easily narrow down their choices from the thousands of options available to them on the internet. Some examples of those filters are: type of workout, level of intensity, lengths, equipment needed, etc.* 
+> *The app is presented as a social media platform, as the targeted users make up the vast majority of individuals utilizing individuals and incentivizes the users to participate in events with friends/like minded individuals* 
 
 Chloe, being from a beach town in California, loves nature and is extremely passionate about the environment and its well-being. Shortly after moving to New Jersey for work, she realizes her typically sustainable living style has shifted due to her demanding work schedule and new environment. Furthermore, Chloe misses her friends from home and spends whatever free time she has scrolling on social media, reminiscing about her old life in Laguna Beach. After her fourth consecutive week of the same routine which leaves Chloe feeling depressed and unfulfilled, she decides to talk to a coworker next in-person work day in hopes of making a change. 
 
