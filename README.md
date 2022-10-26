@@ -1,4 +1,4 @@
-# Patrick Khoury | DH110 | Dr Sookie Cho 
+# Patrick Khoury | DH1110 | Dr Sookie Cho 
 ## Personas and Scenarios
 
 ### The Purpose of Storytelling
