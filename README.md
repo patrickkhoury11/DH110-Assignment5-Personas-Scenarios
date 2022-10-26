@@ -1,1 +1,1 @@
-# DH110-Assignment5-Personas-Scenarios
+# Patrick Khoury | DH110 | Dr Sookie Cho | Personas and Scenarios
