@@ -32,7 +32,7 @@ The two following features bring potential solutions to these barriers
 ### Persona & Empathy Map
 
 #### Alex - The New Kid  
-![Alex's persona profile](![alexpersona](https://user-images.githubusercontent.com/114698093/197982602-b43dcd2a-5a98-4c20-b853-b0cf589c0027.png)
+(![alexpersona](https://user-images.githubusercontent.com/114698093/197982602-b43dcd2a-5a98-4c20-b853-b0cf589c0027.png)
 
 ![June's empathy map](./june_em.png)
 
