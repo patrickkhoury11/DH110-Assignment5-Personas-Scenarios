@@ -31,20 +31,14 @@ The two following features bring potential solutions to these barriers
 
 ### Persona & Empathy Map
 
-#### June - the recent retiree  :family_woman_girl_boy:
-![June's persona profile](./june_p.png)
+#### Alex - The New Kid  
+![Alex's persona profile](![alexpersona](https://user-images.githubusercontent.com/114698093/197982602-b43dcd2a-5a98-4c20-b853-b0cf589c0027.png)
 
 ![June's empathy map](./june_em.png)
 
 #### Mary - the social butterfly  :butterfly: 
 ![Mary's persona profile](./mary_p.png)
 
-![Mary's empathy map](./mary_em.png)
-
-#### Evalyn - the busy bee  :honeybee: 
-![Evalyn's persona profile](./evalyn_p.png)
-
-![Evalyn's empathy map](./evalyn_em.png)
 
 ### Scenarios & Journey Map
 
