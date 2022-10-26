@@ -1,1 +1,2 @@
-# Patrick Khoury | DH110 | Dr Sookie Cho | Personas and Scenarios
+# Patrick Khoury | DH110 | Dr Sookie Cho 
+## Personas and Scenarios
